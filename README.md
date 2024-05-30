@@ -7,3 +7,13 @@ You can follow me on
 
 - Medium - https://medium.com/@saxenaaman628
 - LinkedIn - https://www.linkedin.com/in/saxenaaman628/
+
+## My Tech Stack
+
+| BackEnd | FrontEnd | Databeses | Message Queue System 
+| --- | --- | --- | --- | 
+| Golang | React | MongoDB | Kafka | 
+| Node.JS | Redux | ElasticSearch | RabbitMQ | 
+| Java (SpringBoot/ Spring) | PHP | MySQL |  | 
+
+Also have worked on, Redis for Caching and Kubernetes for deployment.
