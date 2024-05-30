@@ -15,6 +15,6 @@ I've danced through architectural transitions, wrestled with databases to deploy
 | --- | --- | --- | --- | 
 | Golang | React | MongoDB | Kafka | 
 | Node.JS | Redux | ElasticSearch | RabbitMQ | 
-| Java (SpringBoot/ Spring) | PHP | MySQL |  | 
+| Java (SpringBoot / Spring) | PHP | MySQL |  | 
 
 Also have worked on, **Redis** for Caching and **Kubernetes** for deployment.
